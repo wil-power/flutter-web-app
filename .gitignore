@@ -40,6 +40,8 @@ app.*.symbols
 app.*.map.json
 
 /public
+firebase.json
+.firebaserc
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
