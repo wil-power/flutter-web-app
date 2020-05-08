@@ -25,7 +25,7 @@ jobs:
     # switch to flutter dev branch
     - uses: subosito/flutter-action@v1
       with:
-        channel: 'beta'
+        channel: 'dev'
     
     # enable flutter we
     - name: Enable flutter web
